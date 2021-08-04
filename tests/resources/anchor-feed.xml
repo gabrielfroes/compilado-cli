@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Compilado (by Código Fonte TV)]]></title>
+		<description><![CDATA[Compilado é o podcast do Código Fonte TV apresentado pelo casal de programadores Gabriel Fróes e Vanessa Weber. Trazemos forma descontraída as últimas novidades do mundo da programação e tecnologia e contamos algumas das nossas experiências na área (no Breakpoint).]]></description>
+		<link>https://compilado.codigofonte.com.br</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13189673/13189673-1620139010791-0196709862b9d.jpg</url>
+			<title>Compilado (by Código Fonte TV)</title>
+			<link>https://compilado.codigofonte.com.br</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sat, 17 Jul 2021 09:06:07 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/4f366e84/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Código Fonte]]></author>
+		<copyright><![CDATA[073948]]></copyright>
+		<language><![CDATA[pt-br]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Código Fonte</itunes:author>
+		<itunes:summary>Compilado é o podcast do Código Fonte TV apresentado pelo casal de programadores Gabriel Fróes e Vanessa Weber. Trazemos forma descontraída as últimas novidades do mundo da programação e tecnologia e contamos algumas das nossas experiências na área (no Breakpoint).</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Código Fonte</itunes:name>
+			<itunes:email>compilado@codigofonte.com.br</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="News">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13189673/13189673-1620139010791-0196709862b9d.jpg"/>
+		<item>
+			<title><![CDATA[Firefox dá adeus ao FTP | Chrome pega pesado com sites sem HTTPS | Hot Reload no VS Studio 2022 | Burnout: Desenvolvedores estão esgotados | Deno de olho na criptografia [Compilado #017]]]></title>
+			<description><![CDATA[<p>Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 10/07 a 16/07!</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: "Vanessa passou perrengue no hotel na migração de um sistema<em><strong>"</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<ul>
+ <li>Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></li>
+ <li>Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></li>
+</ul>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Firefox-d-adeus-ao-FTP--Chrome-pega-pesado-com-sites-sem-HTTPS--Hot-Reload-no-VS-Studio-2022--Burnout-Desenvolvedores-esto-esgotados--Deno-de-olho-na-criptografia-Compilado-017-e14imap</link>
+			<guid isPermaLink="false">d0e73bd2-2c0d-452a-8798-b56e97a0291c</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 17 Jul 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/37361433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-16%2F1e242638-c84c-e8c6-6f25-187fabd57c0d.mp3" length="23232372" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 10/07 a 16/07!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: &quot;Vanessa passou perrengue no hotel na migração de um sistema&lt;em&gt;&lt;strong&gt;&quot;&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1943</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1626469032048-24beba2b2bdca.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Polêmica no GitHub Copilot | Rust avança no kernel Linux | Python é Pop! | Nubank com vagas para devs | WSL2 no Win 11 bate o Ubuntu? [Compilado #016]]]></title>
+			<description><![CDATA[<p>Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 03/07 a 09/07!</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: "Como construímos nossa casa antes dos 30 anos?".</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<ul>
+ <li>Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></li>
+ <li>Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></li>
+</ul>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Polmica-no-GitHub-Copilot--Rust-avana-no-kernel-Linux--Python--Pop---Nubank-com-vagas-para-devs--WSL2-no-Win-11-bate-o-Ubuntu--Compilado-016-e146mk2</link>
+			<guid isPermaLink="false">d8065f3e-bdea-48be-9573-3e1946014c7e</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 10 Jul 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/36968514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2F2e25f9cb-0f4d-9b77-e9ce-eacef52c657d.mp3" length="23970408" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 03/07 a 09/07!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: &quot;Como construímos nossa casa antes dos 30 anos?&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1950</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1625855193245-e604473ee6d9d.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GitHub Copilot usa GPT3 para completar códigos | M1 da Apple no Linux | Adeus aos APKs| Depois de 5 anos SolidJS 1.0 é lançado | Atualização PHP para 3 versões [Compilado #015]]]></title>
+			<description><![CDATA[<p>Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 26/06 a 02/07!</p>
+<p><strong>Nova Imersão Alura vai Recriar o Orkut:</strong></p>
+<p>Será entre os dias 12 a 16 julho. Totalmente prática, gratuita e online.</p>
+<p>📌 Garanta sua inscrição: <a href="https://codft.me/imersaoreact2021" rel="noreferrer nofollow noopener" target="_blank"><strong>https://codft.me/imersaoreact2021</strong></a></p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Projetos nossos que não deram nada certo<em><strong>”</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p><strong>📌 </strong>Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p><strong>📌 </strong>Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/GitHub-Copilot-usa-GPT3-para-completar-cdigos--M1-da-Apple-no-Linux--Adeus-aos-APKs-Depois-de-5-anos-SolidJS-1-0--lanado--Atualizao-PHP-para-3-verses-Compilado-015-e13rcg6</link>
+			<guid isPermaLink="false">51564467-6f13-4a19-9ea2-80c5918e930d</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 03 Jul 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/36597702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F0fd7fa8f-6e34-b485-93e4-73ccafee3578.mp3" length="24743429" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 26/06 a 02/07!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nova Imersão Alura vai Recriar o Orkut:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Será entre os dias 12 a 16 julho. Totalmente prática, gratuita e online.&lt;/p&gt;
+&lt;p&gt;📌 Garanta sua inscrição: &lt;a href=&quot;https://codft.me/imersaoreact2021&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;https://codft.me/imersaoreact2021&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Projetos nossos que não deram nada certo&lt;em&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Assista o Compilado no YouTube (Exclusivo para Membros do Clube dos CDFs): &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2014</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1625259351677-4917032edde97.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Novo JS aprovado | Deno Deploy Beta 1| Novas versões: Rust e GitHub Issues| Amazon quer caçar 1Mi de bugs | Windows 11 está a caminho e vai rodar apps Android [Compilado #014]]]></title>
+			<description><![CDATA[<p>Na edição 14 do Compilado tivemos notícias sobre a nova especificação do ECMAScript 2021 que foi aprovada formalmente; Versão 1.53 do Rust trouxe uma mudança que os programadores já vinham pedindo há tempos; John McAfee é encontrado morto em cela na Espanha; Motor Deno Deploy chega na versão Beta 1; Brave lança mecanismo de busca que não rastreia você; Windows 11 chega ainda esse ano; e mais. Confira o Compilado #014, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 19/06 a 25/06!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Gabriel migrou um ERP cheio de gambiarras<em><strong>”</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Novo-JS-aprovado--Deno-Deploy-Beta-1-Novas-verses-Rust-e-GitHub-Issues-Amazon-quer-caar-1Mi-de-bugs--Windows-11-est-a-caminho-e-vai-rodar-apps-Android-Compilado-014-e13eflb</link>
+			<guid isPermaLink="false">17bbbbe4-81de-4010-9e63-502df7e65900</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 26 Jun 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/36174955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-25%2Fd7ec709e-7eed-0219-846f-00c34c8a52e4.mp3" length="26090008" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Na edição 14 do Compilado tivemos notícias sobre a nova especificação do ECMAScript 2021 que foi aprovada formalmente; Versão 1.53 do Rust trouxe uma mudança que os programadores já vinham pedindo há tempos; John McAfee é encontrado morto em cela na Espanha; Motor Deno Deploy chega na versão Beta 1; Brave lança mecanismo de busca que não rastreia você; Windows 11 chega ainda esse ano; e mais. Confira o Compilado #014, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 19/06 a 25/06!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Gabriel migrou um ERP cheio de gambiarras&lt;em&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2112</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1624650722521-a7395fb188b84.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Next.js 11 surpreende | GitHub Desktop 2.9 | FB bloqueia API de empresa BR | Código-fonte da web será leiloado | Python e Java no VS Code | Vaza ISO do Windows 11 [Compilado #013] ]]></title>
+			<description><![CDATA[<p>Na edição 13 do Compilado tivemos notícias sobre o lançamento do Next.js que surpreendeu com otimização de performance e colaboração em realtime; Novas funcionalidades do GitHub Desktop; Facebook bloqueia API para empresa brasileira; Java e Python no VS Code;Tim Berners-Lee vai leiloar código-fonte da web; e mais. Confira o Compilado #013, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 12/06 a 18/06!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><strong>NLW Together</strong></p>
+<p>19/06 é o último dia de inscrições para o NLW Together! O evento da Rocketseat com muito código, desafios e networking. Você poderá escolher entre as trilhas ReactJS, React Native, Node.js, Elixir, Flutter, além da Origin e Discover, voltadas para iniciantes na programação.</p>
+<p>📌 Faça sua inscrição: <a href="https://codft.me/nlw6" rel="noreferrer nofollow noopener" target="_blank">https://codft.me/nlw6</a></p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Por que casamos aos 21 anos?<em><strong>”</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Next-js-11-surpreende--GitHub-Desktop-2-9--FB-bloqueia-API-de-empresa-BR--Cdigo-fonte-da-web-ser-leiloado--Python-e-Java-no-VS-Code--Vaza-ISO-do-Windows-11-Compilado-013-e1320q5</link>
+			<guid isPermaLink="false">bf49aee3-f26f-403d-8721-324169dcbb58</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 19 Jun 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/35766533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2F0ddb59f8-5ee6-d228-48cd-b63be118d8fc.mp3" length="32013944" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Na edição 13 do Compilado tivemos notícias sobre o lançamento do Next.js que surpreendeu com otimização de performance e colaboração em realtime; Novas funcionalidades do GitHub Desktop; Facebook bloqueia API para empresa brasileira; Java e Python no VS Code;Tim Berners-Lee vai leiloar código-fonte da web; e mais. Confira o Compilado #013, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 12/06 a 18/06!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NLW Together&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;19/06 é o último dia de inscrições para o NLW Together! O evento da Rocketseat com muito código, desafios e networking. Você poderá escolher entre as trilhas ReactJS, React Native, Node.js, Elixir, Flutter, além da Origin e Discover, voltadas para iniciantes na programação.&lt;/p&gt;
+&lt;p&gt;📌 Faça sua inscrição: &lt;a href=&quot;https://codft.me/nlw6&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;https://codft.me/nlw6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “Por que casamos aos 21 anos?&lt;em&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2582</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1624058277808-4a7f4f9a501a5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Novidades no Terminal do VSCode | Malware em containers Windows | Internet Quântica | HDs com 10x mais capacidade | Novo macOS [Compilado #012] ]]></title>
+			<description><![CDATA[<p>Na edição 12 do Compilado tivemos notícias a atualização do VS Code que veio lotada de novidades; Malware inédito foi criado para contaminar containers Windows na nuvem; Chrome, Edge, Firefox e Safari juntam forças para melhorar sistema de extensões; HDs com grafeno podem armazenar 10 vezes mais dados; WWDC: Apple anuncia iOS 15, iPadOS 15, watchOS 8 e novo macOS, além de liberar mais APIs para desenvolvedores; Rede de três nós é o 1º passo para a Internet Quântica; React 18: seu lançamento estará próximo?; e muito mais. Confira o Compilado #012, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 05/06 a 11/06!</p>
+<p><strong>NLW Together:</strong></p>
+<p>De 20 a 27 de junho acontecerá o NLW Together um evento da Rocketseat online com muito código, desafios, networking e que vai fazer você avançar pra um próximo nível na programação através de muita prática.</p>
+<p><strong>📌 </strong>&nbsp;Faça sua inscrição: <a href="https://codft.me/nlw6" rel="noreferrer nofollow noopener" target="_blank">https://codft.me/nlw6</a></p>
+<p><br></p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><br></p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “<em><strong>Nossa maior decepção na Faculdade”</strong></em>.</p>
+<p><br></p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p><strong>📌 </strong>Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p><strong>📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Novidades-no-Terminal-do-VSCode--Malware-em-containers-Windows--Internet-Quntica--HDs-com-10x-mais-capacidade--Novo-macOS-Compilado-012-e12k1ds</link>
+			<guid isPermaLink="false">53139935-6a12-4139-8f5d-1f6d0e48835b</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 12 Jun 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/35308412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F7d3b735f-eaf5-72fe-8e27-761e217837ea.mp3" length="32655686" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Na edição 12 do Compilado tivemos notícias a atualização do VS Code que veio lotada de novidades; Malware inédito foi criado para contaminar containers Windows na nuvem; Chrome, Edge, Firefox e Safari juntam forças para melhorar sistema de extensões; HDs com grafeno podem armazenar 10 vezes mais dados; WWDC: Apple anuncia iOS 15, iPadOS 15, watchOS 8 e novo macOS, além de liberar mais APIs para desenvolvedores; Rede de três nós é o 1º passo para a Internet Quântica; React 18: seu lançamento estará próximo?; e muito mais. Confira o Compilado #012, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 05/06 a 11/06!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NLW Together:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;De 20 a 27 de junho acontecerá o NLW Together um evento da Rocketseat online com muito código, desafios, networking e que vai fazer você avançar pra um próximo nível na programação através de muita prática.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;&amp;nbsp;Faça sua inscrição: &lt;a href=&quot;https://codft.me/nlw6&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;https://codft.me/nlw6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “&lt;em&gt;&lt;strong&gt;Nossa maior decepção na Faculdade”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2680</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1623438152267-bb383d7b09ff6.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Stack Overflow é vendido | Google acelera web com UDP | Chrome turbina JS V8 | Firefox novidades para devs | IA sugere pacotes NuGet | HarmonyOS é lançado | Facebook e PyTorch [Compilado #011]]]></title>
+			<description><![CDATA[<p>Na edição 11 do Compilado tivemos notícias sobre a venda do Stack Overflow, será devemos nos preocupar com mudanças na plataforma?; TDC Connections, as trilhas da Philips; Google acelera internet com atualização do UDP; Atualização do Deno; Chrome 91 traz JS V8 com performance turbinada; Firefox 89 novidades para usuários e desenvolvedores; Huawei lança o HarmonyOS; Visual Studio tem IA que sugere pacotes NuGet; Facebook adota PyTorch nas soluções de IA; Uber prepara sede gigantesca em Osasco; e mais</p>
+<p>Confira o Compilado #011, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 29/05 a 04/06!</p>
+<p>Além de trazer e comentar as notícias, contar nossas histórias no BreakPoint, nós abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><strong>TDC Connections com a Philips:</strong></p>
+<p>Acompanhe as trilhas da Philips no The Developer’s Conference Connections é gratuito e a inscrição ainda garante o acesso às Trilhas: Stadium, Carreira e Mentoria, Diversidade e Acessibilidade, além do TDC Expo.</p>
+<p>📌 <strong>Se inscreva por aqui: </strong><a href="https://codft.me/tdcphilips" rel="noreferrer nofollow noopener" target="_blank"><strong>codft.me/tdcphilips</strong></a></p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “<em><strong>Já tomamos calote de clientes?”</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Stack-Overflow--vendido--Google-acelera-web-com-UDP--Chrome-turbina-JS-V8--Firefox-novidades-para-devs--IA-sugere-pacotes-NuGet--HarmonyOS--lanado--Facebook-e-PyTorch-Compilado-011-e126df1</link>
+			<guid isPermaLink="false">24f9f2c4-a4e7-4901-a1b5-b04d864c7a66</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 05 Jun 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/34861985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-4%2F8edf2918-629d-322b-6e8b-be411e26f82f.mp3" length="32865357" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Na edição 11 do Compilado tivemos notícias sobre a venda do Stack Overflow, será devemos nos preocupar com mudanças na plataforma?; TDC Connections, as trilhas da Philips; Google acelera internet com atualização do UDP; Atualização do Deno; Chrome 91 traz JS V8 com performance turbinada; Firefox 89 novidades para usuários e desenvolvedores; Huawei lança o HarmonyOS; Visual Studio tem IA que sugere pacotes NuGet; Facebook adota PyTorch nas soluções de IA; Uber prepara sede gigantesca em Osasco; e mais&lt;/p&gt;
+&lt;p&gt;Confira o Compilado #011, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 29/05 a 04/06!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, contar nossas histórias no BreakPoint, nós abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TDC Connections com a Philips:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acompanhe as trilhas da Philips no The Developer’s Conference Connections é gratuito e a inscrição ainda garante o acesso às Trilhas: Stadium, Carreira e Mentoria, Diversidade e Acessibilidade, além do TDC Expo.&lt;/p&gt;
+&lt;p&gt;📌 &lt;strong&gt;Se inscreva por aqui: &lt;/strong&gt;&lt;a href=&quot;https://codft.me/tdcphilips&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codft.me/tdcphilips&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “&lt;em&gt;&lt;strong&gt;Já tomamos calote de clientes?”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2699</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1622840974696-150691b5c764b.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Fuchsia OS é lançado | Microsoft vai usar GPT-3 | Google cria plugin AdSense para WordPress | Atlassian estreia cloud | Green Software Foundation | MS Build 2021]]></title>
+			<description><![CDATA[<p>Na edição 10 do Compilado tivemos notícias sobre a lançamento do Fuchsia OS, que está disponível no Nest Hub; Microsoft vai integrar o modelo de linguagem natural GPT-3 ao Power Apps; Equipe do Chrome se une ao Open UI para trazer novos elementos ao HTML; Google lança plugin oficial do AdSense para WordPress; GitHub mostra resultados da pesquisa sobre como as reuniões online prejudicam a produtividade dos programadores; Atlassian lança Forge uma plataforma de desenvolvimento de aplicações em nuvem; Microsoft anuncia Green Software Foundation para tornar sustentável a indústria de software; Microsoft Build 2021, Azure é o grande destaque; Atualização do DevTools do Chrome ganha nova inspeção de memória; Nova versão do TypeScript traz tipos de escrita para propriedades.</p>
+<p>Confira o Compilado #010, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 22/05 a 28/05!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: "<em><strong>RH da empresa mandou Gabriel para uma casa de massagem"</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br">compilado.codigofonte.com.br</a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv">codigofonte.tv</a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Fuchsia-OS--lanado--Microsoft-vai-usar-GPT-3--Google-cria-plugin-AdSense-para-WordPress--Atlassian-estreia-cloud--Green-Software-Foundation--MS-Build-2021-e11pful</link>
+			<guid isPermaLink="false">5b251e8f-8b17-49e7-9f29-e81db6c18497</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 29 May 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/34438549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Fa722fa65-e5a3-af73-3ece-6d64df5400f5.mp3" length="22571552" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Na edição 10 do Compilado tivemos notícias sobre a lançamento do Fuchsia OS, que está disponível no Nest Hub; Microsoft vai integrar o modelo de linguagem natural GPT-3 ao Power Apps; Equipe do Chrome se une ao Open UI para trazer novos elementos ao HTML; Google lança plugin oficial do AdSense para WordPress; GitHub mostra resultados da pesquisa sobre como as reuniões online prejudicam a produtividade dos programadores; Atlassian lança Forge uma plataforma de desenvolvimento de aplicações em nuvem; Microsoft anuncia Green Software Foundation para tornar sustentável a indústria de software; Microsoft Build 2021, Azure é o grande destaque; Atualização do DevTools do Chrome ganha nova inspeção de memória; Nova versão do TypeScript traz tipos de escrita para propriedades.&lt;/p&gt;
+&lt;p&gt;Confira o Compilado #010, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 22/05 a 28/05!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para falar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: &quot;&lt;em&gt;&lt;strong&gt;RH da empresa mandou Gabriel para uma casa de massagem&quot;&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br&quot;&gt;compilado.codigofonte.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv&quot;&gt;codigofonte.tv&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1892</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1622241884199-b6eb7f12a89aa.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Deno dentro do GitHub | Node.js nativo no Browser | IE descontinuado | Firefox Testa Processo por Site | Sublime Text quer bater VS Code | Flutter 2.2 [Compilado #009]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre a utilização do Deno no projeto Flat Data dentro do GitHub; a criação de uma ferramenta para rodar nativamente Node.js em navegadores e possibilitar debug de back-end usando o próprio navegador; Internet Explorer finalmente será descontinuado; Firefox está testando criar um processo por site; Algumas novidades do Google I/O 2021; Nova versão do Sublime Text; Novidades no Kotlin e mais.</p>
+<p>Confira o Compilado #009, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 15/05 a 21/05!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.</p>
+<p><br></p>
+<p><strong>Hiring Coders:</strong></p>
+<p>Gama Academy e VTEX se unem para oferecer <strong>10 mil bolsas de estudo</strong> para formação Fullstack, em JavaScript com NODE, e com a plataforma de desenvolvimento e-commerce, VTEX IO!</p>
+<p><strong>📌 </strong>Se inscreva por aqui: <a href="https://codft.me/hiringcoders"><strong>codft.me/hiringcoders</strong></a></p>
+<p><br></p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “<em><strong>Gabriel demitido por conta dos ataques de 11 de setembro de 2001”</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p><strong>📌 </strong>Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p><strong>📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Deno-dentro-do-GitHub--Node-js-nativo-no-Browser--IE-descontinuado--Firefox-Testa-Processo-por-Site--Sublime-Text-quer-bater-VS-Code--Flutter-2-2-Compilado-009-e11bqq0</link>
+			<guid isPermaLink="false">f44c6d07-f42c-40c5-951d-afdf8b6de688</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 22 May 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/33990912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-22%2F82952878-4e54-d369-20ef-9d24af5e1216.mp3" length="22516313" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre a utilização do Deno no projeto Flat Data dentro do GitHub; a criação de uma ferramenta para rodar nativamente Node.js em navegadores e possibilitar debug de back-end usando o próprio navegador; Internet Explorer finalmente será descontinuado; Firefox está testando criar um processo por site; Algumas novidades do Google I/O 2021; Nova versão do Sublime Text; Novidades no Kotlin e mais.&lt;/p&gt;
+&lt;p&gt;Confira o Compilado #009, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 15/05 a 21/05!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nossos membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hiring Coders:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gama Academy e VTEX se unem para oferecer &lt;strong&gt;10 mil bolsas de estudo&lt;/strong&gt; para formação Fullstack, em JavaScript com NODE, e com a plataforma de desenvolvimento e-commerce, VTEX IO!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Se inscreva por aqui: &lt;a href=&quot;https://codft.me/hiringcoders&quot;&gt;&lt;strong&gt;codft.me/hiringcoders&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: “&lt;em&gt;&lt;strong&gt;Gabriel demitido por conta dos ataques de 11 de setembro de 2001”&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1878</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1621650131048-85efb23f7b32e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Babel sem dinheiro | GitHub aumenta segurança no SSH | Rust avança no Windows | Edge bloqueia Firefox | Windows quer ser Linux e mais [Compilado #008]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre as dificuldades financeiras que o Babel js está enfrentando, só tem dinheiro até o fim de 2021 aparentemente. Além disso o GitHub aumenta segurança no SSH, Rust avança no Windows, usuários reclamam que o Edge está bloqueando o Firefox, Windows quer ser Linux em nova implementação, Google volta com paco para usar JavaScript para criar Shell Scripts. Confira o Compilado #008, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 08/05 a 14/05!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: <em><strong>1ª Demissão em Massa Ninguém Esquece</strong></em>.</p>
+<p><strong>Hosts:</strong></p>
+<p>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p><strong>📌 Receba as Notícias do Compilado no Email: </strong><a href="https://compilado.codigofonte.com.br"><strong>compilado.codigofonte.com.br</strong></a></p>
+<p><strong>📌 Assista o Compilado no YouTube: </strong><a href="https://codigofonte.tv"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Babel-sem-dinheiro--GitHub-aumenta-segurana-no-SSH--Rust-avana-no-Windows--Edge-bloqueia-Firefox--Windows-quer-ser-Linux-e-mais-Compilado-008-e10t42a</link>
+			<guid isPermaLink="false">e08c34f3-3f9c-42b1-87c2-f9c1c9184371</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 15 May 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/33508874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F67d9db57-42e6-e634-23c4-5c586bd28579.mp3" length="23582828" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre as dificuldades financeiras que o Babel js está enfrentando, só tem dinheiro até o fim de 2021 aparentemente. Além disso o GitHub aumenta segurança no SSH, Rust avança no Windows, usuários reclamam que o Edge está bloqueando o Firefox, Windows quer ser Linux em nova implementação, Google volta com paco para usar JavaScript para criar Shell Scripts. Confira o Compilado #008, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 08/05 a 14/05!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: &lt;em&gt;&lt;strong&gt;1ª Demissão em Massa Ninguém Esquece&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;/strong&gt;&lt;a href=&quot;https://compilado.codigofonte.com.br&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📌 Assista o Compilado no YouTube: &lt;/strong&gt;&lt;a href=&quot;https://codigofonte.tv&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1933</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1621026110086-8753bcac82c5b.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Pare de usar Chrome | Flash bloqueado no Windows | jQuery fora do Bootstrap | Nintendo cria jogos para ciar jogos e mais [Compilado #007]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre o Bloqueio da instalação do Flash no Windows, Bootstrap 5 se livrou de vez do jQuery, Faleceu Aleksandar Mandic (pioneiro da internet brasileira), Nintendo criar jogos para criadores de jogos e mais. Confira o Compilado #007, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 01/05 a 07/05!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Breakpoint:</strong></p>
+<p>A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: <em>Nossa Decepção ao Utilizar a Incubadora de Empresas da Faculdade.</em></p>
+<p><strong>Hosts:</strong></p>
+<p>Somos Gabriel Fróes e Vanessa Weber, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br">compilado.codigofonte.com.br</a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv">codigofonte.tv</a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Pare-de-usar-Chrome--Flash-bloqueado-no-Windows--jQuery-fora-do-Bootstrap--Nintendo-cria-jogos-para-ciar-jogos-e-mais-Compilado-007-e10fnjk</link>
+			<guid isPermaLink="false">cbcb94a9-c124-4490-9e36-1b6d26c41860</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 08 May 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/33070132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-8%2F6a869169-f1a5-47b3-2715-3ad803943d0e.mp3" length="21069207" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre o Bloqueio da instalação do Flash no Windows, Bootstrap 5 se livrou de vez do jQuery, Faleceu Aleksandar Mandic (pioneiro da internet brasileira), Nintendo criar jogos para criadores de jogos e mais. Confira o Compilado #007, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 01/05 a 07/05!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: &lt;em&gt;Nossa Decepção ao Utilizar a Incubadora de Empresas da Faculdade.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos Gabriel Fróes e Vanessa Weber, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br&quot;&gt;compilado.codigofonte.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv&quot;&gt;codigofonte.tv&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1717</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1620440332260-a197181195dab.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Estreia do Breakpoint | PHP agora roda na Google Cloud | JavaScript tem 13.8 milhões de devs | Rust continua crescendo | Python rodando no navegador e mais [Compilado #006]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre PHP é suportado na Google Cloud, JavaScript atinge 13.8 milhões de devs, Rust é que mais cresce, Python rodando em browsers, Teams ganha integração com GitHub, Bye bye View Engine no Angular e mais. Confira o Compilado #006, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 24/04 a 30/04!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Treinamento JS Avançado:</strong></p>
+<p>Para sair do CRUD você precisa participar do JS Expert, o treinamento avançado em JavaScript do Erick Wendel.</p>
+<p>📌 Se inscreva por aqui: <a href="https://codft.me/jsexpert ">codft.me/jsexpert&nbsp;</a></p>
+<p><br></p>
+<p><strong>Breakpoint (ESTREIA):</strong></p>
+<p>A partir dessa semana estreamos o Breakpoint no Compilado, onde contamos uma das milhares de histórias profissionais e/ou pessoais que já vivenciamos. A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: Nosso 1º side project juntos e se conseguimos ganhar dinheiro com ele.</p>
+<p><br></p>
+<p><strong>Hosts:</strong></p>
+<p>Somos Gabriel Fróes e Vanessa Weber, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br">compilado.codigofonte.com.br</a></p>
+<p>📌 Assista o Compilado no YouTube: <a href="https://codigofonte.tv">codigofonte.tv</a></p>
+<p><br></p>
+<p><strong>Trilha:</strong></p>
+<p>🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Estreia-do-Breakpoint--PHP-agora-roda-na-Google-Cloud--JavaScript-tem-13-8-milhes-de-devs--Rust-continua-crescendo--Python-rodando-no-navegador-e-mais-Compilado-006-e100tgm</link>
+			<guid isPermaLink="false">2067e2e2-6947-4a65-a0e0-8f4c782962a5</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 01 May 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/32584662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2F7e521888-798d-37ef-66bf-1e1d5741653c.mp3" length="24712976" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre PHP é suportado na Google Cloud, JavaScript atinge 13.8 milhões de devs, Rust é que mais cresce, Python rodando em browsers, Teams ganha integração com GitHub, Bye bye View Engine no Angular e mais. Confira o Compilado #006, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 24/04 a 30/04!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Treinamento JS Avançado:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Para sair do CRUD você precisa participar do JS Expert, o treinamento avançado em JavaScript do Erick Wendel.&lt;/p&gt;
+&lt;p&gt;📌 Se inscreva por aqui: &lt;a href=&quot;https://codft.me/jsexpert &quot;&gt;codft.me/jsexpert&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Breakpoint (ESTREIA):&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A partir dessa semana estreamos o Breakpoint no Compilado, onde contamos uma das milhares de histórias profissionais e/ou pessoais que já vivenciamos. A escolha da história é realizada via enquete no Código Fonte TV no YouTube. Nessa semana o tema foi: Nosso 1º side project juntos e se conseguimos ganhar dinheiro com ele.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Somos Gabriel Fróes e Vanessa Weber, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br&quot;&gt;compilado.codigofonte.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📌 Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv&quot;&gt;codigofonte.tv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trilha:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1950</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1619824329263-4e68c225c537.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GitHub Actions no CLI | FLoC em risco | Super plugin no WordPress | Google corrige WebView no Android e mais [Compilado #005] ]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre Google está sozinho com o FLoC, APIs do Node 16 ganha suporte ao Apple Silicon, WordPress ganha super plugin, GitHub Actions no CLI, Linux bloqueia contribuições de universidade, Google corrige WebView do Android e mais. Confira o Compilado #005, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 17/04 a 23/04!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Hosts:<br>
+</strong>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/"><strong>codigofonte.tv</strong></a></p>
+<p><strong>Trilha</strong>:<br>
+🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/GitHub-Actions-no-CLI--FLoC-em-risco--Super-plugin-no-WordPress--Google-corrige-WebView-no-Android-e-mais-Compilado-005-evhcov</link>
+			<guid isPermaLink="false">d063d0c5-0ef9-4a77-85cc-ee0b8989b733</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 24 Apr 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/32075999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F8062b4cf-feb6-1701-2945-132ab85f6607.mp3" length="21681909" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre Google está sozinho com o FLoC, APIs do Node 16 ganha suporte ao Apple Silicon, WordPress ganha super plugin, GitHub Actions no CLI, Linux bloqueia contribuições de universidade, Google corrige WebView do Android e mais. Confira o Compilado #005, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 17/04 a 23/04!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;br&gt;
+&lt;/strong&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trilha&lt;/strong&gt;:&lt;br&gt;
+🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1699</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1619211958755-715c7308578e2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Deno com HTTP/2 | Novo framework de dados em vanilla CSS | Chrome 90 & Devtools | Tailwind para React e Vue e mais [Compilado #004] ]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre API GraphQL para WordPress com PHP8, AWS containers com a Red Hat, Deno com HTTP/2, Novo framework para dados com CSS puro, Laravel corrige migrations, Chrome 90 com Devtools melhorado, Tailwind CSS para React e Vue e mais. Confira o Compilado #004, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 10/04 a 16/04!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Hosts:<br>
+</strong>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/"><strong>codigofonte.tv</strong></a></p>
+<p><strong>Trilha</strong>:<br>
+🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Deno-com-HTTP2--Novo-framework-de-dados-em-vanilla-CSS--Chrome-90--Devtools--Tailwind-para-React-e-Vue-e-mais-Compilado-004-ev23bn</link>
+			<guid isPermaLink="false">c5d7a2e6-8377-4c18-8bdb-63ea2a2f1bec</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 17 Apr 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/31574839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-16%2F512a409a-8a5f-ba18-2f7d-aed1526b262e.mp3" length="20774976" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre API GraphQL para WordPress com PHP8, AWS containers com a Red Hat, Deno com HTTP/2, Novo framework para dados com CSS puro, Laravel corrige migrations, Chrome 90 com Devtools melhorado, Tailwind CSS para React e Vue e mais. Confira o Compilado #004, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 10/04 a 16/04!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;br&gt;
+&lt;/strong&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trilha&lt;/strong&gt;:&lt;br&gt;
+🎙️ Nothing Is Impossible (Karma Café) do incrível Gus Monsanto&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1642</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1618597239163-e693563b9132f.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Microsoft com Java próprio | Google vence Oracle na justiça | Rust no Android é realidade | C# agora é open source e mais [Compilado #003]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre Cloudflare com novo Firewall, Ação da Oracle vs Google chega ao fim, C# agora é open source, Rust no Android é realidade, TypeScript traz melhorias, Microsoft tem Java próprio e mais. Confira o Compilado #003, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 03/04 a 09/04!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Hosts:<br>
+</strong>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Microsoft-com-Java-prprio--Google-vence-Oracle-na-justia--Rust-no-Android--realidade--C-agora--open-source-e-mais-Compilado-003-euiku8</link>
+			<guid isPermaLink="false">590a74cc-6f02-40c7-bef5-afc5e13b0ebb</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 10 Apr 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/31068552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-9%2F98441b3c-ef1c-4c77-869b-7bb345862d3f.mp3" length="20096308" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre Cloudflare com novo Firewall, Ação da Oracle vs Google chega ao fim, C# agora é open source, Rust no Android é realidade, TypeScript traz melhorias, Microsoft tem Java próprio e mais. Confira o Compilado #003, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 03/04 a 09/04!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;br&gt;
+&lt;/strong&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1555</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1617984178947-91102130a5424.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[VS Code com DevTools integrado | Next.JS ainda mais rápido | Invasão no repositório do PHP | Popularidade do TensorFlow e mais [Compilado #002]]]></title>
+			<description><![CDATA[<p>Neste episódio tivemos notícias sobre PyThorch, FileZilla com adware, Invasão no repo do PHP, Índices automáticos no GitHub, Novidades no Next.JS, Deno Company, novo DevTools com integração com VS Code e muito mais. Confira o Compilado #002, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 27/03 a 02/04!</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Hosts:<br>
+</strong>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/VS-Code-com-DevTools-integrado--Next-JS-ainda-mais-rpido--Invaso-no-repositrio-do-PHP--Popularidade-do-TensorFlow-e-mais-Compilado-002-eu3ogf</link>
+			<guid isPermaLink="false">f32671a0-eaca-4a8a-9267-24432e3f8781</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 03 Apr 2021 09:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/30580687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2Fdb92c967-1a0e-1e31-3a97-87075495158c.mp3" length="28872574" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio tivemos notícias sobre PyThorch, FileZilla com adware, Invasão no repo do PHP, Índices automáticos no GitHub, Novidades no Next.JS, Deno Company, novo DevTools com integração com VS Code e muito mais. Confira o Compilado #002, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 27/03 a 02/04!&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;br&gt;
+&lt;/strong&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2237</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1617383051922-053004d420fc5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Torvalds sobre Rust no Linux | MS e Google corrigem CSS | Tecnologias do BBB21 | HTTPS obrigatório no Chrome [Compilado #001]]]></title>
+			<description><![CDATA[<p>Neste 1º episódio falamos de Rust, Linux, CSS, Go Lang, HTTPS e até sobre BBB21. Acredite se quiser! ;)<br>
+Confira o Compilado #001, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 20/03 a 26/03!&nbsp;</p>
+<p>Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.</p>
+<p><strong>Hosts:<br>
+</strong>Somos <em>Gabriel Fróes </em>e <em>Vanessa Weber</em>, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/" rel="noreferrer nofollow noopener" target="_blank"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/" rel="noreferrer nofollow noopener" target="_blank"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Torvalds-sobre-Rust-no-Linux--MS-e-Google-corrigem-CSS--Tecnologias-do-BBB21--HTTPS-obrigatrio-no-Chrome-Compilado-001-etinia</link>
+			<guid isPermaLink="false">55b0573f-eec2-4b9e-a2bc-d3b9dc685a6d</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Sat, 27 Mar 2021 09:27:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/30022666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2F8f499680-3568-d770-e57f-89ef63b4c6f9.mp3" length="24235817" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste 1º episódio falamos de Rust, Linux, CSS, Go Lang, HTTPS e até sobre BBB21. Acredite se quiser! ;)&lt;br&gt;
+Confira o Compilado #001, com as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 20/03 a 26/03!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Além de trazer e comentar as notícias, abrimos espaço no Compilado para os comentários dos nossos seguidores, aproveitamos para explicar sobre os vídeos que publicamos na semana no YouTube e também fazemos menções honrosas aos membros do Clube dos CDFs, nosso membros no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hosts:&lt;br&gt;
+&lt;/strong&gt;Somos &lt;em&gt;Gabriel Fróes &lt;/em&gt;e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras desde 2016 no canal Código Fonte TV no YouTube.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot; rel=&quot;noreferrer nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1910</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/13189673/13189673-1616773375717-e20409b1e0c8a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Seja bem vindo ao Compilado - Apresentação]]></title>
+			<description><![CDATA[<p>O <strong>Compilado</strong>, é a newsletter semanal de novidade e notícias do <strong>Mundo da Programação</strong> do canal <a href="https://codigofonte.tv">Código Fonte TV</a>.<br>
+Somos <em>Gabriel Fróes</em> e <em>Vanessa Weber</em>, um casal de programadores que dá as caras no Código Fonte TV (YouTube).<br>
+Finalmente, depois de mais de 1 milhão de pedidos (cof), estamos estreando o nosso podcast.&nbsp;</p>
+<p>O objetivo do Compilado é ser o guia de atualização semanal para devs de todos os níveis, de maneira informal, trazendo todos os sábados, às 6 da manhã, as notícias que mais nos chamaram a atenção do mundo dev.<br>
+Espero que você curta nosso novo cantinho. Todo feedback será bem vindo. ;)</p>
+<p><strong>Links:<br>
+</strong>📌 Receba as Notícias do Compilado no Email: <a href="https://compilado.codigofonte.com.br/"><strong>compilado.codigofonte.com.br</strong></a><strong><br>
+📌 </strong>Assista o Compilado no YouTube: <a href="https://codigofonte.tv/"><strong>codigofonte.tv</strong></a></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message]]></description>
+			<link>https://anchor.fm/compilado/episodes/Seja-bem-vindo-ao-Compilado---Apresentao-etbbfb</link>
+			<guid isPermaLink="false">860e05ac-167d-4289-a558-3565387ecfe6</guid>
+			<dc:creator><![CDATA[Código Fonte]]></dc:creator>
+			<pubDate>Tue, 23 Mar 2021 21:16:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4f366e84/podcast/play/29780907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-23%2F168316951-44100-2-b9315c4f7cd9a.m4a" length="13580409" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;O &lt;strong&gt;Compilado&lt;/strong&gt;, é a newsletter semanal de novidade e notícias do &lt;strong&gt;Mundo da Programação&lt;/strong&gt; do canal &lt;a href=&quot;https://codigofonte.tv&quot;&gt;Código Fonte TV&lt;/a&gt;.&lt;br&gt;
+Somos &lt;em&gt;Gabriel Fróes&lt;/em&gt; e &lt;em&gt;Vanessa Weber&lt;/em&gt;, um casal de programadores que dá as caras no Código Fonte TV (YouTube).&lt;br&gt;
+Finalmente, depois de mais de 1 milhão de pedidos (cof), estamos estreando o nosso podcast.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;O objetivo do Compilado é ser o guia de atualização semanal para devs de todos os níveis, de maneira informal, trazendo todos os sábados, às 6 da manhã, as notícias que mais nos chamaram a atenção do mundo dev.&lt;br&gt;
+Espero que você curta nosso novo cantinho. Todo feedback será bem vindo. ;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;br&gt;
+&lt;/strong&gt;📌 Receba as Notícias do Compilado no Email: &lt;a href=&quot;https://compilado.codigofonte.com.br/&quot;&gt;&lt;strong&gt;compilado.codigofonte.com.br&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br&gt;
+📌 &lt;/strong&gt;Assista o Compilado no YouTube: &lt;a href=&quot;https://codigofonte.tv/&quot;&gt;&lt;strong&gt;codigofonte.tv&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/compilado/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>839</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/13189673/13189673-1620139010791-0196709862b9d.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
