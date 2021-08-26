@@ -2,6 +2,7 @@ import sys, os
 sys.path.insert(0, './src')
 import unittest
 from photoshopy import Photoshopy
+import logging
 
 class TestPhotoshopy(unittest.TestCase):
 
@@ -61,4 +62,11 @@ class TestPhotoshopy(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    logging.basicConfig(
+        level=logging.DEBUG,
+        format='%(asctime)s %(name)s %(levelname)s %(message)s',
+        filename='./tests/compilado.log',
+        filemode='a'
+    )
+            
     unittest.main()   

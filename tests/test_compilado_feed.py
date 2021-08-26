@@ -3,6 +3,7 @@ sys.path.insert(0, './src')
 import unittest
 from compilado_feed import CompiladoFeed
 from datetime import datetime, date
+import logging
 
 class TestCompiladoFeed(unittest.TestCase):
 
@@ -24,4 +25,10 @@ class TestCompiladoFeed(unittest.TestCase):
         self.assertEqual(self.compilado_feed.next_episode(), next_episode)
 
 if __name__ == '__main__':
+    logging.basicConfig(
+        level=logging.DEBUG,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        filename='./tests/compilado.log',
+        filemode='a')
+
     unittest.main()
