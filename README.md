@@ -1,8 +1,6 @@
-![Compilado CLI!](https://www.codigofonte.com.br/wp-content/imgs/compilado/compilado-cli.png?v2 "Compilado CLI")
-
 # Compilado CLI
 
-![Python - Version](https://img.shields.io/badge/python-3.9-green) [![License - MIT](https://img.shields.io/badge/license-PSF--2.0-9400d3.svg)](https://spdx.org/licenses/PSF-2.0.html)
+![Python - Version](https://img.shields.io/badge/python-3.10-green) [![License - MIT](https://img.shields.io/badge/license-PSF--2.0-9400d3.svg)](https://spdx.org/licenses/PSF-2.0.html)
 
 Automatização de tarefas através de linha de comando para a geração de assets para episódios do **Compilado**, a newsletter e podcast do canal **[Código Fonte TV](https://youtube.com/codigofontetv)**.
 
@@ -26,6 +24,7 @@ Geração automática a partir da data de publicação do último episódio do p
 
 ```shell
 $ compilado thumbnail -a
+...
 ```
 
 `-a` ou `--auto` faz com que as informações sejam buscadas automaticamente a partir do feed RSS do podcast
@@ -34,6 +33,7 @@ Com informações personalizadas
 
 ```shell
 $ compilado thumbnail -e "#027" -p "18/09 à 24/09"
+...
 ```
 
 `-e` ou `--episode` é o número do episódio
@@ -44,6 +44,7 @@ $ compilado thumbnail -e "#027" -p "18/09 à 24/09"
 
 ```shell
 $ pip install -r requirements.txt
+...
 ```
 
 ## Tecnologias utilizadas
