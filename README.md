@@ -4,11 +4,9 @@
 
 Automatização de tarefas através de linha de comando para a geração de assets para episódios do **Compilado**, a newsletter e podcast do canal **[Código Fonte TV](https://youtube.com/codigofontetv)**.
 
-## Demonstração
+## Objetivo
 
 `compilado-cli` gera thumbnails a partir de modelos pré-prontos disponíveis em arquivos PSD. As informações a serem preenchidas são automaticamente coletadas a partir do feed RSS do podcast:
-
-![Demonstração](https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif)
 
 ## Recursos
 
